@@ -84855,7 +84855,7 @@ case 1:return A.H(p,r)}})
 return A.J($async$yY,r)}}
 A.a9f.prototype={}
 A.KD.prototype={
-K(a){return new A.yu(B.DR,"Flutter Demo",A.Bd(null,A.aFH(B.a0,B.Jl),!1),null)}}
+K(a){return new A.yu(B.DR,"Gemini Chat App",A.Bd(null,A.aFH(B.a0,B.Jl),!1),null)}}
 A.xJ.prototype={
 al(){return new A.CR($.op.b6(),A.b([],t.SU),new A.H4("0",null,"User"),new A.H4("1","google-gemini-logo.png","Gemini"),B.j)}}
 A.CR.prototype={
